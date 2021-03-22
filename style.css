@@ -1,0 +1,17 @@
+#PurpleBox {
+  background-color: EAC8FA;
+  height: auto;
+  width: 100vw;
+  padding: 30px;
+}
+#eu {
+  background: url("image/eu.jpeg") no-repeat;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}

@@ -48,3 +48,17 @@ li {
   margin-left: 50px;
   line-height: 150%;
 }
+h4 {
+  margin-top: 50px;
+  color: rgb(67, 37, 95);
+  margin-left: 20px;
+}
+p {
+  font-size: 1em;
+  font-weight: lighter;
+  margin-left: 20px;
+}
+b {
+  font-weight: bolder;
+  color: EAC8FA;
+}
